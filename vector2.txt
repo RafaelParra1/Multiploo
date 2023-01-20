@@ -1,0 +1,101 @@
+Multiplo de 3
+1
+2
+Multiplo de 3
+4
+5
+Multiplo de 3
+7
+8
+Multiplo de 3
+10
+11
+Multiplo de 3
+13
+14
+Multiplo de 3
+16
+17
+Multiplo de 3
+19
+20
+Multiplo de 3
+22
+23
+Multiplo de 3
+25
+26
+Multiplo de 3
+28
+29
+Multiplo de 3
+31
+32
+Multiplo de 3
+34
+35
+Multiplo de 3
+37
+38
+Multiplo de 3
+40
+41
+Multiplo de 3
+43
+44
+Multiplo de 3
+46
+47
+Multiplo de 3
+49
+50
+Multiplo de 3
+52
+53
+Multiplo de 3
+55
+56
+Multiplo de 3
+58
+59
+Multiplo de 3
+61
+62
+Multiplo de 3
+64
+65
+Multiplo de 3
+67
+68
+Multiplo de 3
+70
+71
+Multiplo de 3
+73
+74
+Multiplo de 3
+76
+77
+Multiplo de 3
+79
+80
+Multiplo de 3
+82
+83
+Multiplo de 3
+85
+86
+Multiplo de 3
+88
+89
+Multiplo de 3
+91
+92
+Multiplo de 3
+94
+95
+Multiplo de 3
+97
+98
+Multiplo de 3
+Multiplo de 3
